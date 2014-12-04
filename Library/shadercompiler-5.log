@@ -1,0 +1,10 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-5--1331879936
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=1 type=0 insize=3359 outsize=449 kw=WATER_REFLECTIVE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3359 outsize=756 kw=WATER_REFLECTIVE ok=1
+End of pipe
+
+Quitting shader compiler process
